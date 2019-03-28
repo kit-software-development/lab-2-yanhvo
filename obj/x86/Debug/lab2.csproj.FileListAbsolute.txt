@@ -1,0 +1,6 @@
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\obj\x86\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\bin\Debug\ConsoleApplication.exe
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\bin\Debug\ConsoleApplication.pdb
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Yana\Desktop\учеба и все такое\C#\Дфбф\lab-2-yanhvo-master\obj\x86\Debug\ConsoleApplication.pdb
